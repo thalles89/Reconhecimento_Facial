@@ -1,9 +1,0 @@
-/.settings/
-/.idea/
-/.gradle/
-./target/
-src/main/java/recursos/classificadorLBPHYale.yml
-src/main/resources/classificadorLBPHYale.yml
-
-# Project exclude paths
-/target/
